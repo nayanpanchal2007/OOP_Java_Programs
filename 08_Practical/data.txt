@@ -1,0 +1,5 @@
+Hello world
+This is a sample file
+Java programming is fun
+File handling is important
+Practice makes perfect
